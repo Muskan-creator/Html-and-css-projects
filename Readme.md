@@ -1,4 +1,4 @@
-# HTML and CSS projects
+# 15 HTML and CSS projects
 Project -1:- https://github.com/Muskan-creator/street-style-landing-page
 
 Project- 2:- https://github.com/Muskan-creator/restaurant-webpage
